@@ -37,3 +37,4 @@ class Player:
     def draw(self, screen):
         for token in self.tokens:
             token.draw(screen)
+
